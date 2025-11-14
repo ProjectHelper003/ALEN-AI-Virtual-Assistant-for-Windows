@@ -1,3 +1,19 @@
+## 🚀 Features
+- **Wake Word Detection ("Hey Alen")** using Picovoice Porcupine  
+- **Speech-to-Text** using *Faster Whisper* (OpenAI Whisper implementation)  
+- **Text-to-Speech** using *pyttsx3*  
+- **Smart Command Recognition** with fuzzy matching  
+- **Open Applications & Folders** (normal apps, Store apps, top system folders)  
+- **Memory System**  
+  - Remembers Q&A pairs  
+  - Responds when similar questions are asked  
+- **Browser Search Fallback**  
+- **Auto Startup Support**  
+- **Fully Offline Wake Word System**  
+- **Lightweight & works on any Windows system**
+
+
+
 1 Clone the Repository
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
 cd YOUR-REPO
