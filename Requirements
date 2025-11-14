@@ -1,0 +1,19 @@
+
+---
+
+## 🛠️ Requirements
+
+### ✔ Python 3.8+ (Recommended: Python 3.10)
+### ✔ Install the required packages:
+
+```bash
+pip install pvporcupine
+pip install sounddevice
+pip install soundfile
+pip install pyttsx3
+pip install faster-whisper
+pip install textblob
+pip install fuzzywuzzy
+pip install rapidfuzz
+pip install pywin32
+pip install pythoncom
